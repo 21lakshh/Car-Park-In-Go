@@ -66,3 +66,8 @@ To install the dependencies, run:
 ```sh
 pip install -r requirements.txt
 ```
+
+Please download the model_final.h5 file through this drive link: 
+```sh
+https://drive.google.com/file/d/1ROne5iR9kiGrz_qTJjFyhvvmVjHIs04r/view?usp=sharing
+```
