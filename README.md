@@ -40,11 +40,6 @@ pip install -r requirements.txt
 - **Parking Positions:** Ensure `car_positions.pkl` (predefined parking space positions) is in the project directory.
 - **Video Feed:** Place your test video (`carPark.mp4`) in the project directory.
 
-### 4. Run the Application
-Start the Flask application:
-```sh
-python main.py
-```
 ## Project Structure
 ```
 Parking Detection/
@@ -61,13 +56,13 @@ Parking Detection/
 │   └── index.jpeg       # Image file for the web interface
 │── requirements.txt     # List of Python dependencies
 ```
-
-To install the dependencies, run:
+Please download the model_final.h5 file through this drive link: 
 ```sh
-pip install -r requirements.txt
+https://drive.google.com/file/d/19iVRKvLcuNlPJLyOJWmwEejqlWmbtzwO/view?usp=sharing
 ```
+
 
 Please download the model_final.h5 file through this drive link: 
 ```sh
-https://drive.google.com/file/d/1ROne5iR9kiGrz_qTJjFyhvvmVjHIs04r/view?usp=sharing
+https://drive.google.com/file/d/19iVRKvLcuNlPJLyOJWmwEejqlWmbtzwO/view?usp=sharing
 ```
