@@ -60,9 +60,3 @@ Please download the model_final.h5 file through this drive link:
 ```sh
 https://drive.google.com/file/d/19iVRKvLcuNlPJLyOJWmwEejqlWmbtzwO/view?usp=sharing
 ```
-
-
-Please download the model_final.h5 file through this drive link: 
-```sh
-https://drive.google.com/file/d/19iVRKvLcuNlPJLyOJWmwEejqlWmbtzwO/view?usp=sharing
-```
